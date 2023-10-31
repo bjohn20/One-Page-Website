@@ -1,0 +1,14 @@
+body {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 12px;
+}
+
+input [type="text"] {
+  width: 80%;
+  margin: 10px 1em;
+  border-radius: 7px;
+  border-top: 1px solid #090b0d;
+  border-right: 2px solid #424549;
+  border-bottom: 2px solid #424549;
+  border-left: 1px solid #090b0d;
+}
